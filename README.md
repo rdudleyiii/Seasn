@@ -1,4 +1,4 @@
 Seasn
 =====
 
-Simple iOS Weather App built it swift
+Simple iOS Weather App built with Swift
